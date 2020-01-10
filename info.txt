@@ -1,0 +1,58 @@
+uva-20
+manzana-10
+Fresa-10
+
+respsol-6500-2
+smith-15
+
+Lunes
+Sabado
+Martes
+
+Nelson Smith-Villavicencio Sanchez
+Carlos-Martinez
+
+Ingenieria Electronica
+Ingenieria Electronica
+Fisica
+
+SAMSUNG-2530
+LG-3000
+IPHONE-2500
+
+Venus
+Venus
+Luna
+Jupiter
+
+universidad nacional pedro ruiz gallo-calle juan XXIII lambayeque 14013-28
+universidad nacional mayor de san marcos-cercado de lima 15081-60
+universidad nacional de ingenieria-Avenida Tupac Amaru 210 Apartado 1301, R�mac 15333-28
+
+El producto es:100
+La division es:5.0
+
+
+El resultado es:76
+
+15
+20
+18
+
+Mandarina-5
+Zanahoria-65
+
+repsol-0.25
+yaris-STD
+Tierra-65
+Aire-120
+Agua-150
+Matrimonial-180
+Doble-120
+Simple-60
+Doble-80
+Matrimonial-158
+15
+20
+2
+8
